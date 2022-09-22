@@ -24,18 +24,19 @@ The app should have a user registration and login.  After the user logged into t
 
 - ATCHAYA S   
 - JENITHA C
-- PRIYADHARSHINI G(920219104030)
-- PRIYADHARSHINI G(920219104031)
+- PRIYADHARSHINI G (920219104030)
+- PRIYADHARSHINI G (920219104031)
 - KOWSALYA T
 
 ## 🔗 LINKS
-- SABARISH T          [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/tree/main/Assignments/Team%20Leader) 
-- LOKESHWAR M S     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%201)
-- SHANMUGAM T       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%202)
-- SURIYAKUMAR K     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%203)
+- ATCHAYA S                        [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/tree/main/Assignments/Team%20Leader) 
+- JENITHA C                        [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/tree/main/Assignments/Team%20Member%201)
+- PRIYADHARSHINI G (920219104030)  [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/tree/main/Assignments/Team%20Member%202)
+- PRIYADHARSHINI G (920219104031)  [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/tree/main/Assignments/Team%20Member%203)
+- KOWSALYA T                       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/tree/main/Assignments/Team%20Member%204)
 
 
 
 ## EMPATHY MAP CANVAS :
 
-   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Empathy%20Map%20Canvas.pdf)
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/EMPATHY%20MAP%20CANVAS.pdf)
