@@ -22,11 +22,11 @@ The app should have a user registration and login.  After the user logged into t
 
 ## 🧑🏻‍ TEAM MEMBERS
 
-- SABARISH T   
-- LOKESHWAR M S
-- SHANMUGAM T
-- SURIYAKUMAR K
-
+- ATCHAYA S   
+- JENITHA C
+- PRIYADHARSHINI G(920219104030)
+- PRIYADHARSHINI G(920219104031)
+- KOWSALYA T
 
 ## 🔗 LINKS
 - SABARISH T          [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Lead) 
