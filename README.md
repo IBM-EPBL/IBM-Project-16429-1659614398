@@ -1,17 +1,23 @@
-# 🛃 CUSTOMER CARE REGISTRY
+# 🛃 CONTAINMENT ZONE ALERTING APPLICATION
 
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
-- TEAM ID     : PNT2022TMID48470
+- TEAM ID     : PNT2022TMID48441
 
 # 📒 PROJECT DESCRIPTION
 
-This Application has been developed to help the customer in processing their complaints.  The customers can raise the ticket with a detailed description of the issue.  An Agent will be assigned to the Customer to solve the problem.  Whenever the agent is assigned to a customer they will be notified with an email alert.  Customers can view the status of the ticket till the service is provided.
+Project Idea:
+This application is intended to provide information about containment zones in a particular region by alerting people, through continuous monitoring of an individual's location.  Key benefits of the application are monitoring people's activity and alerting them of their safety movements.
 
- ADMIN :
- The main role and responsibility of the admin are to take care of the whole process.  Starting from Admin login followed by the agent creation and assigning the customer's complaints.  Finally, He will be able to track the work assigned to the agent and a notification will be sent to the customer.
+Solution Requirement:
+The project aims at building an application that provides information about the containment zones of a particular region by continuously monitoring an individual's location. Location of the individual must be stored in the Database. Alerts are sent using the notification service. 
 
- USER :
- They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
+Features of the Application
+
+# Admin App (portal):
+They should login to the app and update the containment zones locations in the portal.  Based on the location a Geofence will be created within a 100 meters radius.  They should be able to see how many people are visiting that zone.
+
+# User App (Mobile App):
+The app should have a user registration and login.  After the user logged into the app it will  track the user's location and update the database with the current location.  If the user is visiting the containment zone he will get an alert notification.
 
 
 ## 🧑🏻‍ TEAM MEMBERS
