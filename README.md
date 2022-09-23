@@ -39,4 +39,4 @@ The app should have a user registration and login.  After the user logged into t
 
 ## EMPATHY MAP CANVAS :
 
-   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/EMPATHY%20MAP%20CANVAS.pdf)
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/EMPATHY%20MAP.pdf)
