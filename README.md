@@ -41,6 +41,10 @@ The app should have a user registration and login.  After the user logged into t
 
    - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/EMPATHY%20MAP.pdf)
    
+
+## BRAINSTROMING-IDEA GENERATION :
+   - [BRAINSTROMING](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/BRAINSTROMING-IDEA%20GENERATION.pdf)
+   
    
 ## LITERATURE SURVEY :
    - [LITERATURE SURVEY](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/LITERATURE%20SURVEY.pdf)
