@@ -54,4 +54,4 @@ The app should have a user registration and login.  After the user logged into t
    - [PROBLEM STATEMENT](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/PROBLEM%20STATEMENT.pdf)
    
 ## PROPOSED SOLUTION :
-   - [PROPOSED SOLUTION](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
+   - [PROPOSED SOLUTION](https://github.com/IBM-EPBL/IBM-Project-16429-1659614398/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201/PROPOSED%20SOLUTION.pdf)
